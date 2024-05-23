@@ -1,0 +1,7 @@
+C:\Users\Roberto\Downloads\fundamentos-2\3\bin\Debug\3.exe.config
+C:\Users\Roberto\Downloads\fundamentos-2\3\bin\Debug\3.exe
+C:\Users\Roberto\Downloads\fundamentos-2\3\bin\Debug\3.pdb
+C:\Users\Roberto\Downloads\fundamentos-2\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\Roberto\Downloads\fundamentos-2\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Downloads\fundamentos-2\3\obj\Debug\3.exe
+C:\Users\Roberto\Downloads\fundamentos-2\3\obj\Debug\3.pdb
